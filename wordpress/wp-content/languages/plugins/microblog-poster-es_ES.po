@@ -1,0 +1,1639 @@
+# Translation of Plugins - Microblog Poster &#8211; Auto Publish on Social Media - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Microblog Poster &#8211; Auto Publish on Social Media - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-22 11:33:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Microblog Poster &#8211; Auto Publish on Social Media - Stable (latest release)\n"
+
+#: options/microblogposter_options_new.php:175
+msgid "Remote Key:"
+msgstr "Clave Remota:"
+
+#: options/microblogposter_options_fb.php:193
+msgid "Authorize this facebook account"
+msgstr "Autorice esta cuenta de facebook"
+
+#: options/microblogposter_options_dg.php:3
+msgid "Diigo Accounts"
+msgstr "Cuentas de Diigo"
+
+#: options/microblogposter_options_dg.php:28
+#: options/microblogposter_options_dg.php:94
+msgid "Diigo Account:"
+msgstr "Cuenta de Diigo:"
+
+#: options/microblogposter_options_dg.php:45
+#: options/microblogposter_options_bff.php:56
+#: options/microblogposter_options_new.php:348
+#: options/microblogposter_options_new.php:972
+msgid "API Key:"
+msgstr "Clave API:"
+
+#: options/microblogposter_options_lk.php:3
+msgid "Linkedin Accounts"
+msgstr "Cuentas de Linkedin"
+
+#: options/microblogposter_options_lk.php:49
+#: options/microblogposter_options_lk.php:165
+msgid "Linkedin Account:"
+msgstr "Cuenta de Linkedin:"
+
+#: options/microblogposter_options_lk.php:60
+#: options/microblogposter_options_new.php:391
+msgid "Linkedin target type:"
+msgstr "Tipo objetivo de Linkedin:"
+
+#: options/microblogposter_options_lk.php:64
+#: options/microblogposter_options_new.php:396
+msgid "Company timeline"
+msgstr "Cronograma de compañía"
+
+#: options/microblogposter_options_lk.php:77
+#: options/microblogposter_options_new.php:407
+msgid "Your Linkedin Group ID."
+msgstr "Identificación de Su Grupo de Linkedin."
+
+#: options/microblogposter_options_lk.php:81
+#: options/microblogposter_options_new.php:412
+msgid "Company ID:"
+msgstr "Identificación de Compañía:"
+
+#: options/microblogposter_options_lk.php:85
+#: options/microblogposter_options_new.php:416
+msgid "Your Linkedin Company ID."
+msgstr "Identificación de su Compañía de Linkedin."
+
+#: options/microblogposter_options_lk.php:107
+#: options/microblogposter_options_new.php:438
+msgid "(Text message + Linkedin link box.)"
+msgstr "(Mensaje de texto + Casilla de enlace de Linkedin.)"
+
+#: options/microblogposter_options_lk.php:114
+#: options/microblogposter_options_new.php:445
+msgid "Posting with link box you'll need a thumbnail for your link. If your post contains a featured image, MicroblogPoster will take that one."
+msgstr "Al publicar con casilla de enlace necesitará una miniatura para su enlace. Si su entrada contiene una imagen destacada, MicroblogPoster tomará esa."
+
+#: options/microblogposter_options_lk.php:115
+#: options/microblogposter_options_new.php:446
+msgid "If not, no explicit image url will be submitted and your update will appear without a thumbnail."
+msgstr "Si no, no se enviará una url de imagen explícita y su actualización aparecerá sin una miniatura."
+
+#: options/microblogposter_options_lk.php:116
+#: options/microblogposter_options_new.php:447
+msgid "If you want always to have an image going with your link then specify a default image url just below."
+msgstr "Si siempre desea tener una imagen con su enlace entonces a continuación especifique una url de imagen predeterminada."
+
+#: options/microblogposter_options_lk.php:117
+#: options/microblogposter_options_new.php:448
+msgid "This default thumbnail url will be posted for each new post that doesn't have featured image."
+msgstr "Esta url de miniatura predeterminada será publicada para cada nueva entrada que no tenga imagen destacada."
+
+#: options/microblogposter_options_tb.php:3
+msgid "Tumblr Accounts"
+msgstr "Cuentas de Tumblr"
+
+#: options/microblogposter_options_tb.php:48
+#: options/microblogposter_options_tb.php:147
+msgid "Tumblr Account:"
+msgstr "Cuenta de Tumblr:"
+
+#: options/microblogposter_options_tb.php:60
+#: options/microblogposter_options_new.php:492
+msgid "Blog Hostname:"
+msgstr "Nombre del Servidor del Blog:"
+
+#: options/microblogposter_options_pt.php:62
+#: options/microblogposter_options_pt.php:69
+#: options/microblogposter_options_bg.php:55
+#: options/microblogposter_options_fk.php:66
+#: options/microblogposter_options_wp.php:42
+#: options/microblogposter_options_tb.php:64
+#: options/microblogposter_options_new.php:496
+#: options/microblogposter_options_new.php:574
+#: options/microblogposter_options_new.php:799
+#: options/microblogposter_options_new.php:806
+#: options/microblogposter_options_new.php:856
+#: options/microblogposter_options_new.php:918
+msgid "Example:"
+msgstr "Ejemplo:"
+
+#: options/microblogposter_options_xg.php:71
+#: options/microblogposter_options_tb.php:92
+#: options/microblogposter_options_new.php:524
+msgid "(Text status update.)"
+msgstr "(Actualización de estado del texto.)"
+
+#: options/microblogposter_options_tb.php:94
+#: options/microblogposter_options_new.php:525
+msgid "Tumblr link box status update."
+msgstr "Actualización del estado de la casilla de enlace de Tumblr."
+
+#: options/microblogposter_options_bg.php:3
+msgid "Blogger Accounts"
+msgstr "Cuentas de Blogger"
+
+#: options/microblogposter_options_bg.php:39
+#: options/microblogposter_options_bg.php:116
+msgid "Blogger Account:"
+msgstr "Cuenta de Blogger:"
+
+#: options/microblogposter_options_bg.php:51
+#: options/microblogposter_options_new.php:570
+msgid "Blog Id:"
+msgstr "Identificación del blog:"
+
+#: options/microblogposter_options_pt.php:92
+#: options/microblogposter_options_bg.php:86
+#: options/microblogposter_options_new.php:605
+#: options/microblogposter_options_new.php:829
+msgid "Client Id:"
+msgstr "Identificación de Cliente:"
+
+#: options/microblogposter_options_pt.php:99
+#: options/microblogposter_options_bg.php:93
+#: options/microblogposter_options_new.php:612
+#: options/microblogposter_options_new.php:836
+msgid "Client Secret:"
+msgstr "Secreto del Cliente:"
+
+#: options/microblogposter_options_bg.php:139
+msgid "Authorize this Blogger account"
+msgstr "Autorizar esta cuenta de Blogger"
+
+#: options/microblogposter_options_ip.php:3
+msgid "Instapaper Accounts"
+msgstr "Cuentas de Instapaper"
+
+#: options/microblogposter_options_ip.php:23
+#: options/microblogposter_options_ip.php:74
+msgid "Instapaper Account:"
+msgstr "Cuenta de Instapaper:"
+
+#: options/microblogposter_options_vk.php:3
+msgid "VKontakte Accounts"
+msgstr "Cuentas de VKontakte"
+
+#: options/microblogposter_options_vk.php:44
+#: options/microblogposter_options_vk.php:159
+msgid "VKontakte Account:"
+msgstr "Cuenta de VKontakte:"
+
+#: options/microblogposter_options_vk.php:55
+#: options/microblogposter_options_new.php:662
+msgid "VKontakte target type:"
+msgstr "Tipo de objetivo de VKontakte:"
+
+#: options/microblogposter_options_vk.php:60
+#: options/microblogposter_options_new.php:667
+msgid "Public Page wall"
+msgstr "Muro de Página Pública"
+
+#: options/microblogposter_options_vk.php:62
+#: options/microblogposter_options_new.php:668
+msgid "Group wall"
+msgstr "Muro de grupo"
+
+#: options/microblogposter_options_vk.php:64
+#: options/microblogposter_options_new.php:669
+msgid "Event wall"
+msgstr "Muro de evento"
+
+#: options/microblogposter_options_vk.php:66
+#: options/microblogposter_options_new.php:666
+msgid "Profile wall"
+msgstr "Muro de perfil"
+
+#: options/microblogposter_options_vk.php:72 microblogposter_options.php:3546
+#: microblogposter_options.php:3574
+msgid "Page ID"
+msgstr "Identificación de Página"
+
+#: options/microblogposter_options_vk.php:74 microblogposter_options.php:3550
+msgid "Group ID"
+msgstr "Identificación de Grupo"
+
+#: options/microblogposter_options_vk.php:76 microblogposter_options.php:3554
+#: microblogposter_options.php:3578
+msgid "Event ID"
+msgstr "Identificación de Evento"
+
+#: options/microblogposter_options_vk.php:78 microblogposter_options.php:3397
+#: microblogposter_options.php:3558 microblogposter_options.php:3582
+msgid "Profile ID"
+msgstr "Identificación de Perfil"
+
+#: options/microblogposter_options_vk.php:83
+#: options/microblogposter_options_new.php:679
+msgid "numeric"
+msgstr "numérico"
+
+#: options/microblogposter_options_vk.php:103
+#: options/microblogposter_options_new.php:699
+#: options/microblogposter_options_new.php:760
+msgid "Text only status update."
+msgstr "Actualización de estado solo de texto."
+
+#: options/microblogposter_options_vk.php:104
+#: options/microblogposter_options_new.php:700
+msgid "(Text message + VKontakte link box.)"
+msgstr "(Mensaje de text + Casilla de enlace de VKontakte.)"
+
+#: options/microblogposter_options_vk.php:111
+#: options/microblogposter_options_new.php:707
+msgid "If you choose to post with link box, VKontakte is auto fetching an image from your post and add it to the link box."
+msgstr "Si elige publicar con casilla de enlace, VKontakte busca automáticamente una imagen proveniente de su entrada y la añade a la casilla de enlace."
+
+#: options/microblogposter_options_vk.php:179
+msgid "Re-Authorize this vkontakte account"
+msgstr "Volver a autorizar esta cuenta de vkontakte"
+
+#: options/microblogposter_options_vk.php:185
+msgid "Authorize this vkontakte account"
+msgstr "Autorizar esta cuenta de vkontakte"
+
+#: microblogposter_options.php:2935
+msgid "Account type:"
+msgstr "Tipo de cuenta:"
+
+#: options/microblogposter_options_new.php:61
+msgid "Leave the fields 'Access Token' and 'Access Token Secret' below blank if you want to authorize your account interactively."
+msgstr "Deje los campos 'Token de Acceso' y 'Secreto de Token de Acceso' que aparecen a continuación en blanco si desea autorizar su cuenta interactivamente."
+
+#: options/microblogposter_options_new.php:62
+msgid "If you provide them, your account will be ready to post immediately and you won't have to authorize interactively."
+msgstr "Si los proporcionó, su cuenta estará lista para publicar inmediatamente y no tendrá que autorizar interactivamente."
+
+#: options/microblogposter_options_new.php:63
+msgid "Not providing these two fields is meant to allow you posting to multiple twitter accounts with a single twitter App. "
+msgstr "Si no proporciona estos dos campos significa que le permite publicar en múltiples cuentas de twitter con una única aplicación de twitter."
+
+#: options/microblogposter_options_new.php:64
+msgid "You then authorize each account interactively against your App."
+msgstr "Luego autoriza cada cuenta interactivamente frente a su aplicación."
+
+#: options/microblogposter_options_new.php:72
+#: options/microblogposter_options_new.php:79
+msgid "Optional."
+msgstr "Opcional."
+
+#: options/microblogposter_options_new.php:259
+#: options/microblogposter_options_new.php:398
+#: options/microblogposter_options_new.php:671
+msgid "Where you want to auto post."
+msgstr "Donde desea auto publicar."
+
+#: microblogposter_options.php:2978
+msgid "Auto re-publish your old blog posts to social accounts :"
+msgstr "Vuelva a publicar automáticamente sus antiguas entradas del blog en las cuentas sociales :"
+
+#: microblogposter_options.php:2981
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> can now auto re-publish your <strong>old blog posts</strong> to social accounts in order to keep them alive."
+msgstr "Ahora <span class=\"microblogposter-name\">MicroblogPoster</span> puede volver a publicar automáticamente sus <strong>antiguas entradas del blog</strong> en las cuentas sociales para así mantenerlas vivas."
+
+#: microblogposter_options.php:2982
+msgid "You need to specify the minimum and maximum of the post age and all posts, published on your blog in between, will be candidates."
+msgstr "Necesita especificar la antigüedad máxima y mínima de la entrada y todas las entradas, publicadas en su blog en ese período, serán candidatas."
+
+#: microblogposter_options.php:2983
+msgid "This feature utilizes the WP Cron functionality and will be run every x (specify it below) hours."
+msgstr "Esta función utiliza la funcionalidad WP Cron y se ejecutará cada x (especificarlo a continuación) horas."
+
+#: microblogposter_options.php:2985
+msgid "How to activate :"
+msgstr "Cómo activar :"
+
+#: microblogposter_options.php:2986
+msgid "Check the 'Activate old posts auto publishing'."
+msgstr "Revise 'Activar auto publicación de entradas antiguas'."
+
+#: microblogposter_options.php:2987
+msgid "Choose your settings."
+msgstr "Elija su configuración."
+
+#: microblogposter_options.php:2988
+msgid "Select the social accounts you want to be active for old posts re-publishing."
+msgstr "Seleccione las cuentas sociales que desea estén activas para la publicación de entradas antiguas."
+
+#: microblogposter_options.php:2989
+msgid "Hit Save button."
+msgstr "Presione el botón de Guardar."
+
+#: microblogposter_options.php:2990
+msgid "Almost immediately you should see first old post(s) re-published in the Logs/History tab. They are labelled 'Old'."
+msgstr "Casi inmediatamente debería ver la(s) primera(s) entrada(s) antigua(s) republicada(s) en los Registros/Pestaña de historial. Están etiquetadas como 'Antiguas'."
+
+#: microblogposter_options.php:2991
+msgid "Next run will occur after approximately x hours."
+msgstr "La próxima ejecución ocurrirá después de aproximadamente x horas."
+
+#: microblogposter_options.php:3000
+msgid "Activate old posts auto publishing :"
+msgstr "Active auto publicación de entradas antiguas :"
+
+#: microblogposter_options.php:3003
+msgid "Current Status :"
+msgstr "Estado Actual :"
+
+#: microblogposter_options.php:3003
+msgid "<strong class='mbp-green'>ACTIVATED</strong>"
+msgstr "<strong class='mbp-green'>ACTIVADO</strong>"
+
+#: microblogposter_options.php:3003
+msgid "<strong class='mbp-red'>DEACTIVATED</strong>"
+msgstr "<strong class='mbp-red'>DESACTIVADO</strong>"
+
+#: microblogposter_options.php:3011
+msgid "General settings :"
+msgstr "Configuración general :"
+
+#: microblogposter_options.php:3015
+msgid "WP Cron Interval:"
+msgstr "Intervalo WP Cron:"
+
+#: microblogposter_options.php:3016
+msgid "hours"
+msgstr "horas"
+
+#: microblogposter_options.php:3016 microblogposter_options.php:3024
+#: microblogposter_options.php:3028 microblogposter_options.php:3032
+msgid "and reasonably"
+msgstr "y razonablemente"
+
+#: microblogposter_options.php:3019
+msgid "Number of posts to auto publish each time:"
+msgstr "Número de entradas para auto publicar cada vez:"
+
+#: microblogposter_options.php:3020
+msgid "posts"
+msgstr "entradas"
+
+#: microblogposter_options.php:3023
+msgid "Min age of published post to be eligible. (0 for no min limit):"
+msgstr "Antigüedad mínima de la entrada publicada para que sea elegible. (0 si no desea límite mínimo)"
+
+#: microblogposter_options.php:3024 microblogposter_options.php:3028
+#: microblogposter_options.php:3032
+msgid "days"
+msgstr "días"
+
+#: microblogposter_options.php:3027
+msgid "Max age of published post to be eligible. (0 for no max limit):"
+msgstr "Antigüedad máxima de la entrada publicada para ser elegible. (0 si no desea límite máximo):"
+
+#: microblogposter_options.php:3031
+msgid "Period after which the re-published old post is eligible again (0 for never):"
+msgstr "Período después del cual la entrada antigua republicada es elegible de nuevo (0 para nunca):"
+
+#: microblogposter_options.php:3090
+msgid "Categories to exclude old posts from Cross Posting:"
+msgstr "Categorías para excluir entradas antiguas de la Publicación Cruzada."
+
+#: microblogposter_options.php:3094
+msgid "Check categories for which you want to disable old posts auto publishing."
+msgstr "Revise las categorías para las cuales desea desactivar la auto publicación de entradas antiguas."
+
+#: microblogposter_options.php:3125 microblogposter_options.php:3229
+msgid "Select the social accounts to update:"
+msgstr "Seleccione las cuentas sociales para actualizar:"
+
+#: microblogposter_options.php:3136
+msgid "Sharing manually to your social accounts is available with the Enterprise Add-on"
+msgstr "La función de compartir manualmente en sus cuentas sociales está disponible con el Complemento Enterprise"
+
+#: microblogposter_options.php:3145
+msgid "Please verify your License Key before you can manually auto share."
+msgstr "Por favor verifique su Clave de Licencia antes de que pueda auto compartir manualmente."
+
+#: microblogposter_options.php:3148
+msgid "Manually auto share to your configured social accounts:"
+msgstr "Auto comparta manualmente en sus cuentas sociales configuradas:"
+
+#: microblogposter_options.php:3150
+msgid "You can share an <strong>url</strong> or a simple <strong>text status update</strong> to all your configured social accounts."
+msgstr "Puede compartir una <strong>url</strong> o actualizar <strong>el estado de un simple texto</strong> en todas sus cuentas sociales configuradas."
+
+#: microblogposter_options.php:3151
+msgid "This is totally independent from your blog, by auto sharing you don't create any new item in your blog."
+msgstr "Esto es totalmente independiente de su blog, al auto compartir no crea ningún nuevo elemento en su blog."
+
+#: microblogposter_options.php:3152
+msgid "Manual auto posting will appear in Logs/History, as usual, only labelled 'Manual'. "
+msgstr "La auto publicación manual aparecerá en Registros/Historial, como siempre, solo etiquetada 'Manual'."
+
+#: microblogposter_options.php:3158
+msgid "Successfully posted to social accounts."
+msgstr "Publicada exitosamente en las cuentas sociales."
+
+#: microblogposter_options.php:3164
+msgid "Please fill in the required fields."
+msgstr "Por favor complete los campos requeridos."
+
+#: microblogposter_options.php:3170
+msgid "Please validate your Customer License Key."
+msgstr "Por favor valide su Clave de Licencia de Cliente."
+
+#: microblogposter_options.php:3186
+msgid "Title"
+msgstr "Título"
+
+#: microblogposter_options.php:3198
+msgid "Description"
+msgstr "Descripción"
+
+#: microblogposter_options.php:3202
+msgid "Optional. Description/Excerpt of the Url, used with Facebook, Linkedin, Tumblr."
+msgstr "Opcional. Descripción/Extracto de la Url, usada con Facebook, Linkedin, Tumblr."
+
+#: microblogposter_options.php:3213
+msgid "Message"
+msgstr "Mensaje"
+
+#: microblogposter_options.php:3218
+msgid "Text message as it will be shared. Message formats below aren't used for 'text' type."
+msgstr "Digite el mensaje tal como será compartido. Los formatos de mensaje que aparecen a continuación no se usan para el tipo 'texto'."
+
+#: microblogposter_options.php:3219
+msgid "Currently doesn't work with Linkedin. And Diigo, Delicious and Instapaper don't support sharing text."
+msgstr "Actualmente no funciona con Linkedin. Y Diigo, Delicious e Instapaper no pueden compartir texto."
+
+#: microblogposter_options.php:3225
+msgid "Share"
+msgstr "Compartir"
+
+#: microblogposter_options.php:3239
+msgid "Logs Section:"
+msgstr "Sección de Registros:"
+
+#: microblogposter_options.php:3243
+msgid "Empty Logs"
+msgstr "Vaciar Registros"
+
+#: microblogposter_options.php:3249
+msgid "DateTime"
+msgstr "DateTime"
+
+#: microblogposter_options.php:3251
+msgid "Log message"
+msgstr "Mensaje de Registro"
+
+#: microblogposter_options.php:3252
+msgid "Post ID"
+msgstr "Identificación de la entrada"
+
+#: microblogposter_options.php:3281
+msgid "Manual"
+msgstr "Manual"
+
+#: microblogposter_options.php:3282
+msgid "Old"
+msgstr "Antigua"
+
+#: microblogposter_options.php:3863
+msgid "Delete permanently all your logs?"
+msgstr "¿Eliminar permanentemente todos sus registros?"
+
+#: microblogposter_options.php:3915 microblogposter_options.php:3972
+msgid "Hide"
+msgstr "Ocultar"
+
+#: microblogposter_options.php:3958
+msgid "Hide Additional Shorteners"
+msgstr "Ocultar Reductores Adicionales"
+
+#: microblogposter_options.php:4024
+msgid "Don't cross-post automatically on Update"
+msgstr "No cruzar publicaciones en Actualizar"
+
+#: microblogposter_options.php:4025
+msgid "This is most likely to be checked."
+msgstr "Esto muy probablemente será marcado."
+
+#: microblogposter_options.php:4357 microblogposter_options.php:4359
+#: microblogposter_options.php:4696 microblogposter_options.php:4698
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: microblogposter_options.php:4362 microblogposter_options.php:4701
+msgid "Uncheck All"
+msgstr "Desmarcar Todo"
+
+#: microblogposter_options.php:4362 microblogposter_options.php:4701
+msgid "Check All"
+msgstr "Marcar Todo"
+
+#: microblogposter_options.php:4364 microblogposter_options.php:4366
+#: microblogposter_options.php:4704 microblogposter_options.php:4706
+#: microblogposter_options.php:4708 microblogposter_options.php:4710
+msgid "Available shortcodes:"
+msgstr "Shortcodes disponibles:"
+
+#: microblogposter_options.php:4386
+msgid "Message Format for Manual Posting:"
+msgstr "Formato del Mensaje para Publicación Manual:"
+
+#: microblogposter_options.php:4733
+msgid "Message Format for Old Posts:"
+msgstr "Formato del Mensaje para Entradas Antiguas:"
+
+#: options/microblogposter_options_tb.php:171
+msgid "Authorize this Tumblr account"
+msgstr "Autoriza esta cuenta de Tumblr"
+
+#: options/microblogposter_options_tb.php:103
+#: options/microblogposter_options_new.php:532
+msgid "Link box + description of your post. Message Format field above isn't used."
+msgstr "Casilla de enlace + descripción de tu entrada. El campo  de formato de mensaje que aparece arriba no se usa."
+
+#: options/microblogposter_options_bg.php:48
+#: options/microblogposter_options_xg.php:51
+#: options/microblogposter_options_tb.php:57
+msgid "Easily identify it later, not used for posting."
+msgstr "Para identificarlo fácilmente después, no se usa para publicar."
+
+#: options/microblogposter_options_lk.php:186
+msgid "Authorize this linkedin account"
+msgstr "Autoriza esta cuenta de linkedin"
+
+#. Author URI of the plugin
+msgid "https://efficientscripts.com/"
+msgstr "https://efficientscripts.com/"
+
+#. Author of the plugin
+msgid "Efficient Scripts"
+msgstr "Efficient Scripts"
+
+#: microblogposter_options.php:3192
+msgid "Url"
+msgstr "URL"
+
+#: microblogposter_options.php:3250
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: microblogposter_options.php:654
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: microblogposter_options.php:2401
+msgid "Manually entered post excerpt, otherwise empty string."
+msgstr "Ingrese manualmente el extracto del blog, de lo contrario déjelo en blanco."
+
+#: microblogposter_options.php:2404
+msgid "The author's name."
+msgstr "Nombre del autor."
+
+#: microblogposter_options.php:2434
+msgid "Advanced features are available with the Pro / Enterprise Add-on"
+msgstr "Las funciones avanzadas están disponibles con el Complemento Pro / Enterprise"
+
+#: microblogposter_options.php:2441
+msgid "There's a general agreement in the SEO community that social signals strengthen your blog's page rank and authority."
+msgstr "En la comunidad SEO existe un acuerdo general en cuanto a que las señales sociales fortalecen el rango y autoridad de la página del blog."
+
+#: microblogposter_options.php:2444
+msgid "If you like <span class=\"microblogposter-name\">MicroblogPoster</span> or just find it useful, please <a class=\"mbp-add-review-link\" href=\"https://wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank\">Add a review</a>"
+msgstr "Si le gusta <span class=\"microblogposter-name\">MicroblogPoster</span> o si simplemente le parece útil, por favor <a class=\"mbp-add-review-link\" href=\"https://wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank\">Agregue un comentario</a>"
+
+#: microblogposter_options.php:2453
+msgid "Valid"
+msgstr "Válida"
+
+#: options/microblogposter_options_tw.php:159
+#: options/microblogposter_options_gpb.php:115
+#: options/microblogposter_options_pt.php:137
+#: options/microblogposter_options_fbb.php:115
+#: options/microblogposter_options_bg.php:131
+#: options/microblogposter_options_ip.php:89
+#: options/microblogposter_options_dl.php:100
+#: options/microblogposter_options_fk.php:144
+#: options/microblogposter_options_vk.php:174
+#: options/microblogposter_options_dg.php:109
+#: options/microblogposter_options_lk.php:180
+#: options/microblogposter_options_fb.php:182
+#: options/microblogposter_options_pk.php:147
+#: options/microblogposter_options_xg.php:130
+#: options/microblogposter_options_wp.php:117
+#: options/microblogposter_options_gmb.php:38
+#: options/microblogposter_options_gmb.php:169
+#: options/microblogposter_options_bff.php:94
+#: options/microblogposter_options_tb.php:162 microblogposter_options.php:2454
+#: microblogposter_options.php:3910
+msgid "Edit"
+msgstr "Editar"
+
+#: microblogposter_options.php:2470
+msgid "Social Networks Accounts"
+msgstr "Cuentas de Redes Sociales"
+
+#: microblogposter_options.php:2473
+msgid "Logs/History"
+msgstr "Registros/Historial"
+
+#: options/microblogposter_options_tw.php:50
+#: options/microblogposter_options_gpb.php:36
+#: options/microblogposter_options_pt.php:49
+#: options/microblogposter_options_fbb.php:36
+#: options/microblogposter_options_bg.php:42
+#: options/microblogposter_options_fk.php:54
+#: options/microblogposter_options_vk.php:47
+#: options/microblogposter_options_dg.php:31
+#: options/microblogposter_options_lk.php:52
+#: options/microblogposter_options_fb.php:63
+#: options/microblogposter_options_pk.php:33
+#: options/microblogposter_options_xg.php:45
+#: options/microblogposter_options_bff.php:48
+#: options/microblogposter_options_tb.php:51
+#: options/microblogposter_options_new.php:2
+#: options/microblogposter_options_new.php:83
+#: options/microblogposter_options_new.php:167
+#: options/microblogposter_options_new.php:242
+#: options/microblogposter_options_new.php:334
+#: options/microblogposter_options_new.php:382
+#: options/microblogposter_options_new.php:483
+#: options/microblogposter_options_new.php:561
+#: options/microblogposter_options_new.php:653
+#: options/microblogposter_options_new.php:735
+#: options/microblogposter_options_new.php:786
+#: options/microblogposter_options_new.php:844
+#: options/microblogposter_options_new.php:964
+#: options/microblogposter_options_new.php:980
+#: options/microblogposter_options_new.php:1059
+#: options/microblogposter_options_new.php:1138
+#: microblogposter_options.php:2521 microblogposter_options.php:2562
+#: microblogposter_options.php:2628 microblogposter_options.php:2677
+#: microblogposter_options.php:2698
+msgid "Help with screenshots in english"
+msgstr "Ayuda con las capturas de pantalla en inglés"
+
+#: microblogposter_options.php:2542 microblogposter_options.php:3124
+msgid "OR"
+msgstr "O"
+
+#: microblogposter_options.php:2554
+msgid "Recommended way is the oauth access token only authentication."
+msgstr "La forma recomendada es la autenticación solo con token de acceso oauth."
+
+#: microblogposter_options.php:2575
+msgid "Goo.gl Client Secret :"
+msgstr "Secreto de Cliente Goo.gl :"
+
+#: options/microblogposter_options_tw.php:164
+#: options/microblogposter_options_pt.php:143
+#: options/microblogposter_options_bg.php:137
+#: options/microblogposter_options_fk.php:149
+#: options/microblogposter_options_vk.php:182
+#: options/microblogposter_options_lk.php:184
+#: options/microblogposter_options_fb.php:190
+#: options/microblogposter_options_xg.php:136
+#: options/microblogposter_options_tb.php:168 microblogposter_options.php:2590
+msgid "Refresh authorization now"
+msgstr "Actualizar autorización ahora"
+
+#: microblogposter_options.php:2593
+msgid "Authorize"
+msgstr "Autorizar"
+
+#: microblogposter_options.php:2633
+msgid "Adf.ly Api Key :"
+msgstr "Clave Api Adf.ly :"
+
+#: microblogposter_options.php:2647
+msgid "Adf.ly Domain :"
+msgstr "Dominio Adf.ly :"
+
+#: microblogposter_options.php:2649
+msgid "(ay.gy will be used for twitter)"
+msgstr "(ay.gy se usará para twitter)"
+
+#: microblogposter_options.php:2661
+msgid "custom"
+msgstr "personalizado"
+
+#: microblogposter_options.php:2669
+msgid "We don't know if the custom domain will work with Facebook or Twitter."
+msgstr "No sabemos si el dominio personalizado funcionará con Facebook o Twitter."
+
+#: microblogposter_options.php:2682
+msgid "Adfoc.us Api Key :"
+msgstr "Clave Api para Adfoc.us :"
+
+#: microblogposter_options.php:2736
+msgid "Posts :"
+msgstr "Entradas :"
+
+#: microblogposter_options.php:2762
+msgid "Pages :"
+msgstr "Páginas :"
+
+#: microblogposter_options.php:2766
+msgid "Enable <span class=\"microblogposter-name\">MicroblogPoster</span> for pages :"
+msgstr "Activar <span class=\"microblogposter-name\">MicroblogPoster</span> para las páginas :"
+
+#: microblogposter_options.php:2858
+msgid "Shortcodes adjustments :"
+msgstr "Ajustes para shortcodes :"
+
+#: microblogposter_options.php:2865
+msgid "max length:"
+msgstr "longitud máxima:"
+
+#: microblogposter_options.php:2866 microblogposter_options.php:2870
+#: microblogposter_options.php:2874
+msgid "characters"
+msgstr "caracteres"
+
+#: microblogposter_options.php:2866 microblogposter_options.php:2870
+#: microblogposter_options.php:2874 microblogposter_options.php:3016
+#: microblogposter_options.php:3020 microblogposter_options.php:3024
+#: microblogposter_options.php:3028 microblogposter_options.php:3032
+msgid "default value"
+msgstr "valor predeterminado"
+
+#: microblogposter_options.php:2866 microblogposter_options.php:2870
+#: microblogposter_options.php:2874 microblogposter_options.php:3016
+#: microblogposter_options.php:3020 microblogposter_options.php:3024
+#: microblogposter_options.php:3028 microblogposter_options.php:3032
+msgid "range between"
+msgstr "rango entre"
+
+#: microblogposter_options.php:2866 microblogposter_options.php:2870
+#: microblogposter_options.php:2874 microblogposter_options.php:3020
+msgid "and"
+msgstr "y"
+
+#: microblogposter_options.php:2869 microblogposter_options.php:2873
+msgid "length:"
+msgstr "longitud:"
+
+#: options/microblogposter_options_tw.php:3
+msgid "Twitter Accounts"
+msgstr "Cuentas de Twitter"
+
+#: options/microblogposter_options_tw.php:47
+#: options/microblogposter_options_tw.php:144
+msgid "Twitter Account:"
+msgstr "Cuenta de Twitter:"
+
+#: options/microblogposter_options_tw.php:133
+#: options/microblogposter_options_tw.php:151
+#: options/microblogposter_options_gpb.php:89
+#: options/microblogposter_options_gpb.php:107
+#: options/microblogposter_options_pt.php:111
+#: options/microblogposter_options_pt.php:129
+#: options/microblogposter_options_fbb.php:89
+#: options/microblogposter_options_fbb.php:107
+#: options/microblogposter_options_bg.php:105
+#: options/microblogposter_options_bg.php:123
+#: options/microblogposter_options_ip.php:63
+#: options/microblogposter_options_ip.php:81
+#: options/microblogposter_options_dl.php:74
+#: options/microblogposter_options_dl.php:92
+#: options/microblogposter_options_fk.php:118
+#: options/microblogposter_options_fk.php:136
+#: options/microblogposter_options_vk.php:148
+#: options/microblogposter_options_vk.php:166
+#: options/microblogposter_options_dg.php:83
+#: options/microblogposter_options_dg.php:101
+#: options/microblogposter_options_lk.php:154
+#: options/microblogposter_options_lk.php:172
+#: options/microblogposter_options_fb.php:156
+#: options/microblogposter_options_fb.php:174
+#: options/microblogposter_options_pk.php:121
+#: options/microblogposter_options_pk.php:139
+#: options/microblogposter_options_xg.php:104
+#: options/microblogposter_options_xg.php:122
+#: options/microblogposter_options_wp.php:91
+#: options/microblogposter_options_wp.php:109
+#: options/microblogposter_options_gmb.php:116
+#: options/microblogposter_options_gmb.php:143
+#: options/microblogposter_options_gmb.php:161
+#: options/microblogposter_options_gmb.php:305
+#: options/microblogposter_options_gmb.php:323
+#: options/microblogposter_options_bff.php:68
+#: options/microblogposter_options_bff.php:86
+#: options/microblogposter_options_tb.php:136
+#: options/microblogposter_options_tb.php:154 microblogposter_options.php:2963
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: options/microblogposter_options_tw.php:163
+#: options/microblogposter_options_pt.php:142
+#: options/microblogposter_options_bg.php:136
+#: options/microblogposter_options_fk.php:148
+#: options/microblogposter_options_vk.php:178
+#: options/microblogposter_options_fb.php:186
+#: options/microblogposter_options_xg.php:135
+#: options/microblogposter_options_gmb.php:175
+#: options/microblogposter_options_gmb.php:191
+#: options/microblogposter_options_tb.php:167
+msgid "Authorization is valid permanently"
+msgstr "La autorización es válida permanentemente"
+
+#: options/microblogposter_options_tw.php:165
+#: options/microblogposter_options_tw.php:168
+#: options/microblogposter_options_fk.php:150
+#: options/microblogposter_options_fk.php:153
+#: options/microblogposter_options_xg.php:137
+#: options/microblogposter_options_xg.php:140
+#: options/microblogposter_options_tb.php:169
+#: options/microblogposter_options_tb.php:172
+msgid "(2 steps required)"
+msgstr "(se necesitan 2 pasos)"
+
+#: options/microblogposter_options_pk.php:3
+msgid "Plurk Accounts"
+msgstr "Cuentas de Plurk"
+
+#: options/microblogposter_options_pk.php:30
+#: options/microblogposter_options_pk.php:132
+msgid "Plurk Account:"
+msgstr "Cuenta de Plurk:"
+
+#: options/microblogposter_options_dl.php:3
+msgid "Delicious Accounts"
+msgstr "Cuentas de Delicious"
+
+#: options/microblogposter_options_dl.php:27
+#: options/microblogposter_options_dl.php:85
+msgid "Delicious Account:"
+msgstr "Cuenta de Delicious:"
+
+#: options/microblogposter_options_tw.php:134
+#: options/microblogposter_options_gpb.php:90
+#: options/microblogposter_options_pt.php:112
+#: options/microblogposter_options_fbb.php:90
+#: options/microblogposter_options_bg.php:106
+#: options/microblogposter_options_ip.php:64
+#: options/microblogposter_options_dl.php:75
+#: options/microblogposter_options_fk.php:119
+#: options/microblogposter_options_vk.php:149
+#: options/microblogposter_options_dg.php:84
+#: options/microblogposter_options_lk.php:155
+#: options/microblogposter_options_fb.php:157
+#: options/microblogposter_options_pk.php:122
+#: options/microblogposter_options_xg.php:105
+#: options/microblogposter_options_wp.php:92
+#: options/microblogposter_options_gmb.php:117
+#: options/microblogposter_options_gmb.php:144
+#: options/microblogposter_options_gmb.php:306
+#: options/microblogposter_options_bff.php:69
+#: options/microblogposter_options_tb.php:137 microblogposter_options.php:2964
+#: microblogposter_options.php:3115
+msgid "Save"
+msgstr "Guardar"
+
+#: options/microblogposter_options_tw.php:145
+#: options/microblogposter_options_gpb.php:101
+#: options/microblogposter_options_pt.php:123
+#: options/microblogposter_options_fbb.php:101
+#: options/microblogposter_options_bg.php:117
+#: options/microblogposter_options_ip.php:75
+#: options/microblogposter_options_dl.php:86
+#: options/microblogposter_options_fk.php:130
+#: options/microblogposter_options_vk.php:160
+#: options/microblogposter_options_dg.php:95
+#: options/microblogposter_options_lk.php:166
+#: options/microblogposter_options_fb.php:168
+#: options/microblogposter_options_pk.php:133
+#: options/microblogposter_options_xg.php:116
+#: options/microblogposter_options_wp.php:103
+#: options/microblogposter_options_gmb.php:155
+#: options/microblogposter_options_gmb.php:317
+#: options/microblogposter_options_bff.php:80
+#: options/microblogposter_options_tb.php:148
+msgid "Delete?"
+msgstr "¿Eliminar?"
+
+#: options/microblogposter_options_tw.php:160
+#: options/microblogposter_options_gpb.php:116
+#: options/microblogposter_options_pt.php:138
+#: options/microblogposter_options_fbb.php:116
+#: options/microblogposter_options_bg.php:132
+#: options/microblogposter_options_ip.php:90
+#: options/microblogposter_options_dl.php:101
+#: options/microblogposter_options_fk.php:145
+#: options/microblogposter_options_vk.php:175
+#: options/microblogposter_options_dg.php:110
+#: options/microblogposter_options_lk.php:181
+#: options/microblogposter_options_fb.php:183
+#: options/microblogposter_options_pk.php:148
+#: options/microblogposter_options_xg.php:131
+#: options/microblogposter_options_wp.php:118
+#: options/microblogposter_options_gmb.php:39
+#: options/microblogposter_options_gmb.php:170
+#: options/microblogposter_options_bff.php:95
+#: options/microblogposter_options_tb.php:163
+msgid "Del"
+msgstr "Eliminar"
+
+#: options/microblogposter_options_ip.php:33
+#: options/microblogposter_options_dl.php:37
+#: options/microblogposter_options_dg.php:39
+#: options/microblogposter_options_wp.php:54
+#: options/microblogposter_options_new.php:209
+#: options/microblogposter_options_new.php:342
+#: options/microblogposter_options_new.php:627
+#: options/microblogposter_options_new.php:930
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: options/microblogposter_options_gpb.php:71
+#: options/microblogposter_options_fbb.php:71
+#: options/microblogposter_options_dl.php:56
+#: options/microblogposter_options_fk.php:83
+#: options/microblogposter_options_dg.php:65
+#: options/microblogposter_options_wp.php:73
+#: options/microblogposter_options_new.php:228
+#: options/microblogposter_options_new.php:368
+#: options/microblogposter_options_new.php:874
+#: options/microblogposter_options_new.php:949
+#: options/microblogposter_options_new.php:1044
+#: options/microblogposter_options_new.php:1123
+msgid "Include tags:"
+msgstr "Incluir etiquetas:"
+
+#: options/microblogposter_options_fb.php:3
+msgid "Facebook Accounts"
+msgstr "Cuentas de Facebook"
+
+#: options/microblogposter_options_fbb.php:33
+#: options/microblogposter_options_fbb.php:100
+#: options/microblogposter_options_fb.php:60
+#: options/microblogposter_options_fb.php:167
+msgid "Facebook Account:"
+msgstr "Cuenta de Facebook:"
+
+#: options/microblogposter_options_fb.php:71
+#: options/microblogposter_options_new.php:251
+msgid "Facebook target type:"
+msgstr "Tipo de objetivo Facebook:"
+
+#: options/microblogposter_options_fb.php:76
+#: options/microblogposter_options_new.php:256
+msgid "Page timeline"
+msgstr "Cronograma de la página"
+
+#: options/microblogposter_options_lk.php:66
+#: options/microblogposter_options_fb.php:78
+#: options/microblogposter_options_new.php:257
+msgid "Group timeline"
+msgstr "Cronograma del grupo"
+
+#: options/microblogposter_options_lk.php:68
+#: options/microblogposter_options_fb.php:80
+#: options/microblogposter_options_new.php:255
+#: options/microblogposter_options_new.php:395
+msgid "Profile timeline"
+msgstr "Cronograma del perfil"
+
+#: options/microblogposter_options_fb.php:85
+#: options/microblogposter_options_new.php:264
+msgid "Page ID:"
+msgstr "Identificación de la Página:"
+
+#: options/microblogposter_options_fb.php:89
+#: options/microblogposter_options_new.php:268
+msgid "Your Facebook Page ID. (numeric)"
+msgstr "Su Identificación de Página de Facebook. (numérico)"
+
+#: options/microblogposter_options_lk.php:73
+#: options/microblogposter_options_fb.php:93
+#: options/microblogposter_options_new.php:273
+#: options/microblogposter_options_new.php:403
+msgid "Group ID:"
+msgstr "Identificación de Grupo:"
+
+#: options/microblogposter_options_fb.php:97
+#: options/microblogposter_options_new.php:277
+msgid "Your Facebook Group ID. (numeric)"
+msgstr "Su Identificación de Grupo de Facebook. (numérico)"
+
+#: options/microblogposter_options_vk.php:100
+#: options/microblogposter_options_lk.php:103
+#: options/microblogposter_options_fb.php:115
+#: options/microblogposter_options_xg.php:68
+#: options/microblogposter_options_tb.php:89
+#: options/microblogposter_options_new.php:295
+#: options/microblogposter_options_new.php:434
+#: options/microblogposter_options_new.php:521
+#: options/microblogposter_options_new.php:696
+#: options/microblogposter_options_new.php:757 microblogposter_options.php:3177
+msgid "Post Type:"
+msgstr "Tipo de Entrada:"
+
+#: options/microblogposter_options_vk.php:103
+#: options/microblogposter_options_fb.php:118
+#: options/microblogposter_options_xg.php:71
+#: options/microblogposter_options_tb.php:92
+#: options/microblogposter_options_new.php:298
+#: options/microblogposter_options_new.php:524
+#: options/microblogposter_options_new.php:699
+#: options/microblogposter_options_new.php:760 microblogposter_options.php:3209
+msgid "Text"
+msgstr "Texto"
+
+#: options/microblogposter_options_fb.php:118
+#: options/microblogposter_options_new.php:298
+msgid "(Text only status update.)"
+msgstr "(Actualización de estado solo para texto.)"
+
+#: options/microblogposter_options_vk.php:104
+#: options/microblogposter_options_lk.php:107
+#: options/microblogposter_options_fb.php:119
+#: options/microblogposter_options_xg.php:73
+#: options/microblogposter_options_tb.php:94
+#: options/microblogposter_options_new.php:299
+#: options/microblogposter_options_new.php:438
+#: options/microblogposter_options_new.php:525
+#: options/microblogposter_options_new.php:700
+#: options/microblogposter_options_new.php:761 microblogposter_options.php:3182
+msgid "Link"
+msgstr "Enlace"
+
+#: options/microblogposter_options_fb.php:119
+#: options/microblogposter_options_new.php:299
+msgid "(Text message + Facebook link box.)"
+msgstr "(Mensaje de texto + Casillo de enlace de Facebook.)"
+
+#: options/microblogposter_options_lk.php:121
+#: options/microblogposter_options_new.php:452
+msgid "Default Image Url:"
+msgstr "Url de Imagen Predeterminada:"
+
+#: options/microblogposter_options_lk.php:125
+#: options/microblogposter_options_new.php:456
+msgid "Default Thumbnail for link box."
+msgstr "Miniatura predeterminada para casilla de enlace."
+
+#: options/microblogposter_options_lk.php:125
+#: options/microblogposter_options_new.php:456
+msgid "Help"
+msgstr "Ayuda"
+
+#: options/microblogposter_options_vk.php:122
+#: options/microblogposter_options_lk.php:135
+#: options/microblogposter_options_fb.php:137
+#: options/microblogposter_options_new.php:317
+#: options/microblogposter_options_new.php:466
+#: options/microblogposter_options_new.php:718
+msgid "Application ID/API Key:"
+msgstr "Identificación de Aplicación/Clave API:"
+
+#: options/microblogposter_options_vk.php:129
+#: options/microblogposter_options_lk.php:142
+#: options/microblogposter_options_fb.php:144
+#: options/microblogposter_options_new.php:324
+#: options/microblogposter_options_new.php:473
+#: options/microblogposter_options_new.php:725
+msgid "Application Secret:"
+msgstr "Secreto de Aplicación:"
+
+#: options/microblogposter_options_fb.php:187
+msgid "Re-Authorize this facebook account"
+msgstr "Vuelva a autorizar esta cuenta de facebook"
+
+#: options/microblogposter_options_vk.php:181
+#: options/microblogposter_options_lk.php:183
+#: options/microblogposter_options_fb.php:189
+msgid "Authorization is valid until"
+msgstr "La autorización es válida hasta"
+
+#: options/microblogposter_options_tw.php:72
+#: options/microblogposter_options_bg.php:72
+#: options/microblogposter_options_gmb.php:98
+#: options/microblogposter_options_gmb.php:286
+#: options/microblogposter_options_tb.php:81
+#: options/microblogposter_options_new.php:24
+#: options/microblogposter_options_new.php:513
+#: options/microblogposter_options_new.php:591
+msgid "Include featured image:"
+msgstr "Incluir imagen destacada:"
+
+#: options/microblogposter_options_new.php:331
+#: options/microblogposter_options_new.php:480
+#: options/microblogposter_options_new.php:558
+#: options/microblogposter_options_new.php:732 microblogposter_options.php:3060
+#: microblogposter.php:6004 microblogposter.php:6085 microblogposter.php:6172
+msgid "Available with the Pro / Enterprise Add-on."
+msgstr "Disponible con el Complemento Pro / Enterprise."
+
+#: microblogposter_options.php:2440
+msgid "The idea behind <span class=\"microblogposter-name\">MicroblogPoster</span> is to promote your wordpress blog and reach more people through social networks."
+msgstr "La idea detrás de <span class=\"microblogposter-name\">MicroblogPoster</span> promocionar tu blog de WordPress y llegar a más personas a través de las redes sociales."
+
+#: microblogposter_options.php:2442
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> is simply an intermediary between your blog and your own social network accounts."
+msgstr "<span class=\"microblogposter-name\">MicroblogPoster</span> es simplemente un intermediario entre tu blog y tus propias cuentas en redes sociales."
+
+#: microblogposter_options.php:2443
+msgid "You'll never see \"posted by MicroblogPoster\" in your updates, you'll see \"posted by your own App name\" or simply \"by API\"."
+msgstr "Nunca verás «publicado por MicroblogPoster» en tus actualizaciones, verás «publicado por el nombre de tu propia aplicación» o simplemente «por API»."
+
+#: microblogposter_options.php:2432
+msgid "<span class=\"microblogposter-name\">Microblog Poster</span> Settings"
+msgstr "Ajustes de <span class=\"microblogposter-name\">Microblog Poster</span>"
+
+#: microblogposter_options.php:2425
+msgid "Mandatory. Easily identify it, not used for posting."
+msgstr "Obligatorio. Para identificarlo fácilmente, no se usa para publicar."
+
+#: microblogposter_options.php:2403
+msgid "First few words of your content, suitable for twitter-like sites."
+msgstr "Primeras palabras de tu contenido, adecuado para sitios como twitter."
+
+#: microblogposter_options.php:2402
+msgid "If provided equals to manual excerpt, otherwise auto generated."
+msgstr "Se lo que se proporciona es igual al extracto manual, de lo contrario se auto genera."
+
+#: microblogposter_options.php:2400
+msgid "Your blog/site url."
+msgstr "Url de tu blog/sitio."
+
+#: microblogposter_options.php:2399
+msgid "The blog post shortened url."
+msgstr "Url acortada de la entrada de blog."
+
+#: microblogposter_options.php:2398
+msgid "Url of the blog post."
+msgstr "Url de la entrada de blog."
+
+#: microblogposter_options.php:2397
+msgid "Title of the blog post."
+msgstr "Título de la entrada de blog."
+
+#: microblogposter_options.php:2396
+msgid "You can use shortcodes:"
+msgstr "Puedes usar shortcodes:"
+
+#: microblogposter_options.php:1349
+msgid "Account deleted successfully."
+msgstr "La cuenta se ha eliminado correctamente."
+
+#: microblogposter_options.php:372 microblogposter_options.php:1270
+msgid "Account updated successfully."
+msgstr "La cuenta se ha actualizado correctamente."
+
+#: microblogposter_options.php:1010
+msgid "Account added successfully."
+msgstr "La cuenta se ha añadido correctamente."
+
+#: options/microblogposter_options_tw.php:79
+#: options/microblogposter_options_gmb.php:181
+#: options/microblogposter_options_gmb.php:183
+#: options/microblogposter_options_new.php:31
+#: options/microblogposter_options_new.php:331
+#: options/microblogposter_options_new.php:480
+#: options/microblogposter_options_new.php:558
+#: options/microblogposter_options_new.php:732 microblogposter_options.php:2435
+#: microblogposter_options.php:2616 microblogposter_options.php:2618
+#: microblogposter_options.php:3060 microblogposter_options.php:3138
+#: microblogposter_options.php:3140 microblogposter.php:6004
+#: microblogposter.php:6085 microblogposter.php:6172
+msgid "Upgrade Now"
+msgstr "Actualiza ahora"
+
+#: microblogposter.php:5998 microblogposter.php:6079 microblogposter.php:6166
+msgid "Hide complete Control Dashboard"
+msgstr "Ocultar panel de control completo"
+
+#: microblogposter.php:5993 microblogposter.php:6003 microblogposter.php:6074
+#: microblogposter.php:6084 microblogposter.php:6161 microblogposter.php:6171
+msgid "Show complete Control Dashboard"
+msgstr "Mostrar panel de control completo"
+
+#: microblogposter.php:5959 microblogposter.php:6040 microblogposter.php:6127
+msgid "Disable Microblog Poster this time?"
+msgstr "¿Desactivar Microblog Poster?"
+
+#: microblogposter_options.php:2755 microblogposter_options.php:2785
+msgid "(This is most likely to be checked.)"
+msgstr "(Seguramente tengas que dejar esto marcado)"
+
+#: microblogposter_options.php:2750
+msgid "Default per POST UPDATE behavior :"
+msgstr "Comportamiento predeterminado al ACTUALIZAR ENTRADA :"
+
+#: microblogposter_options.php:2745 microblogposter_options.php:2754
+#: microblogposter_options.php:2775 microblogposter_options.php:2784
+msgid "Don't cross-post automatically :"
+msgstr "No redistribuir las entradas automáticamente :"
+
+#: microblogposter_options.php:2741
+msgid "Default per NEW POST behavior :"
+msgstr "Comportamiento predeterminado al PUBLICAR UNA NUEVA ENTRADA :"
+
+#: microblogposter_options.php:2703
+msgid "P.pw User ID :"
+msgstr "Usuario de P.pw :"
+
+#: microblogposter_options.php:2711
+msgid "All the social sites seem to accept p.pw related links."
+msgstr "Todos los sitios sociales parecen aceptar los enlaces de p.pw."
+
+#: microblogposter_options.php:2691
+msgid "All the other social sites seem to accept adfoc.us related links."
+msgstr "Todos los demás sitios sociales parecen aceptar los enlaces de adfoc.us."
+
+#: microblogposter_options.php:2690
+msgid "<span class=\"mbp-deprecated\">Facebook blocks sharing adfoc.us related links.</span>"
+msgstr "<span class=\"mbp-deprecated\">Facebook bloquea el compartir enlaces de adfoc.us.</span>"
+
+#: microblogposter_options.php:2670
+msgid "All the other social sites seem to accept adf.ly related links."
+msgstr "Todos los demás sitios sociales parecen aceptar los enlaces de adf.ly."
+
+#: microblogposter_options.php:2668
+msgid "<span class=\"mbp-deprecated\"> Twitter only accepts ay.gy links</span> (auto replacement of adf.ly)"
+msgstr "<span class=\"mbp-deprecated\"> Twitter solo acepta enlaces ay.gy</span> (sustitución automática de adf.ly)"
+
+#: microblogposter_options.php:2667
+msgid "<span class=\"mbp-deprecated\">Facebook blocks sharing adf.ly related links.</span>"
+msgstr "<span class=\"mbp-deprecated\">Facebook bloquea el compartir enlaces de adf.ly.</span>"
+
+#: microblogposter_options.php:2640
+msgid "Adf.ly User Id :"
+msgstr "Usuario de Adf.ly :"
+
+#: microblogposter_options.php:2614
+msgid "Additional Shorteners are only available with the Enterprise Add-on."
+msgstr "Los acortadores adicionales solo están disponibles con el Complemento Enterprise."
+
+#: microblogposter_options.php:2606 microblogposter_options.php:3953
+msgid "Show Additional Shorteners..."
+msgstr "Mostrar acortadores adicionales..."
+
+#: microblogposter_options.php:2599
+msgid "Please <span class=\"mbp-deprecated\">Save the Client ID and Client Secret first</span> then you can Authorize/Re-Authorize the goo.gl account."
+msgstr "Por favor <span class=\"mbp-deprecated\">guarda el ID de Cliente y el Secreto de Cliente</span> antes de Autorizar/Reautorizar la cuenta de goo.gl."
+
+#: microblogposter_options.php:2593
+msgid "Please authorize before you can shorten urls."
+msgstr "Por favor, autoriza antes de poder reducir las url."
+
+#: microblogposter_options.php:2589
+msgid "Authorization is valid permanently. Refresh only if you changed Client ID and Client Secret."
+msgstr "La autorización es válida permanentemente. Actualiza solo si ha cambiado tu ID de Cliente y Secreto de Cliente."
+
+#: microblogposter_options.php:2568
+msgid "Goo.gl Client ID :"
+msgstr "ID de Cliente Goo.gl :"
+
+#: microblogposter_options.php:2553
+msgid "The combination of username/API key for authenticating with Bitly is now <span class=\"mbp-deprecated\">deprecated</span> (still works)."
+msgstr "La combinación de nombre de usuario/clave API para autenticación con Bitly ahora está <span class=\"mbp-deprecated\">obsoleta</span> (aún funciona)."
+
+#: microblogposter_options.php:2545
+msgid "Bitly Access Token :"
+msgstr "Token de acceso de Bitly :"
+
+#: microblogposter_options.php:2534
+msgid "Bitly API Key :"
+msgstr "Clave de API de Bitly :"
+
+#: microblogposter_options.php:2527
+msgid "Bitly API Username :"
+msgstr "Nombre de usuario del API en Bitly :"
+
+#: microblogposter_options.php:2513
+msgid "Url Shortener"
+msgstr "Acortador de URL"
+
+#: microblogposter_options.php:2479
+msgid "Choose your general options"
+msgstr "Elige tus opciones generales"
+
+#: microblogposter_options.php:2472
+msgid "Manual Auto Publishing"
+msgstr "Autopublicación manual"
+
+#: microblogposter_options.php:2471
+msgid "**Auto Publish Old Posts**"
+msgstr "**Autopublicar entradas antiguas**"
+
+#: microblogposter_options.php:2469
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: microblogposter_options.php:2461
+msgid "Save License Key"
+msgstr "Guardar clave de licencia"
+
+#: microblogposter_options.php:2453
+msgid "Not Valid"
+msgstr "No válida"
+
+#: microblogposter_options.php:2452
+msgid "Customer License Key"
+msgstr "Clave de licencia de cliente"
+
+#: microblogposter_options.php:2449
+msgid "In order to complete the MicroblogPoster's Pro / Enterprise Add-on installation, please Save your Customer License Key."
+msgstr "Para completar la instalación del Complemento Pro / Enterprise de MicroblogPoster, por favor, guarda tu clave de licencia de cliente."
+
+#: options/microblogposter_options_gpb.php:75
+#: options/microblogposter_options_fbb.php:75
+#: options/microblogposter_options_dl.php:60
+#: options/microblogposter_options_fk.php:87
+#: options/microblogposter_options_dg.php:69
+#: options/microblogposter_options_wp.php:77
+#: options/microblogposter_options_new.php:232
+#: options/microblogposter_options_new.php:372
+#: options/microblogposter_options_new.php:878
+#: options/microblogposter_options_new.php:953
+#: options/microblogposter_options_new.php:1048
+#: options/microblogposter_options_new.php:1127
+msgid "Do you want to include tags in the bookmarks?"
+msgstr "¿Quieres incluir etiquetas en los marcadores?"
+
+#: options/microblogposter_options_pk.php:41
+#: options/microblogposter_options_new.php:91
+msgid "Qualifier:"
+msgstr "Cualificador:"
+
+#: options/microblogposter_options_tw.php:169
+#: options/microblogposter_options_fk.php:154
+#: options/microblogposter_options_xg.php:141
+#: options/microblogposter_options_tb.php:173
+msgid "Final step, click once again."
+msgstr "Paso final, haz clic otra vez."
+
+#: options/microblogposter_options_tw.php:167
+msgid "Authorize this Twitter account"
+msgstr "Autoriza esta cuenta de Twitter"
+
+#: options/microblogposter_options_tw.php:121
+#: options/microblogposter_options_pk.php:109
+#: options/microblogposter_options_new.php:75
+#: options/microblogposter_options_new.php:159
+msgid "Access Token Secret:"
+msgstr "Secreto de token de acceso:"
+
+#: options/microblogposter_options_tw.php:114
+#: options/microblogposter_options_vk.php:136
+#: options/microblogposter_options_pk.php:102
+#: options/microblogposter_options_new.php:68
+#: options/microblogposter_options_new.php:152
+msgid "Access Token:"
+msgstr "Token de acceso:"
+
+#: options/microblogposter_options_tw.php:110
+msgid "In any case these two fields are MANDATORY in order to successfully post to twitter."
+msgstr "En cualquier caso, estos dos campos son OBLIGATORIOS para poder publicar correctamente en twitter."
+
+#: options/microblogposter_options_tw.php:109
+msgid "The two fields below 'Access Token' and 'Access Token Secret' are either generated interactively or you provided them manually."
+msgstr "Los dos campos que aparecen a continuación, «Token de acceso» y «Secreto de token de acceso» son generados interactivamente o los proporcionas manualmente."
+
+#: options/microblogposter_options_tw.php:98
+#: options/microblogposter_options_fk.php:104
+#: options/microblogposter_options_pk.php:95
+#: options/microblogposter_options_xg.php:90
+#: options/microblogposter_options_tb.php:122
+#: options/microblogposter_options_new.php:50
+#: options/microblogposter_options_new.php:145
+#: options/microblogposter_options_new.php:551
+#: options/microblogposter_options_new.php:778
+#: options/microblogposter_options_new.php:895
+msgid "Consumer Secret:"
+msgstr "Secreto de cliente:"
+
+#: options/microblogposter_options_tw.php:91
+#: options/microblogposter_options_fk.php:97
+#: options/microblogposter_options_pk.php:88
+#: options/microblogposter_options_xg.php:83
+#: options/microblogposter_options_tb.php:115
+#: options/microblogposter_options_new.php:43
+#: options/microblogposter_options_new.php:138
+#: options/microblogposter_options_new.php:544
+#: options/microblogposter_options_new.php:771
+#: options/microblogposter_options_new.php:888
+msgid "Consumer Key:"
+msgstr "Clave de cliente:"
+
+#: options/microblogposter_options_tw.php:77
+#: options/microblogposter_options_bg.php:76
+#: options/microblogposter_options_gmb.php:102
+#: options/microblogposter_options_gmb.php:290
+#: options/microblogposter_options_tb.php:85
+#: options/microblogposter_options_new.php:29
+#: options/microblogposter_options_new.php:517
+#: options/microblogposter_options_new.php:595
+msgid "Do you want to include featured image in your updates?"
+msgstr "¿Quieres incluir la imagen destacada en tus publicaciones?"
+
+#: options/microblogposter_options_tw.php:62
+#: options/microblogposter_options_gpb.php:61
+#: options/microblogposter_options_pt.php:76
+#: options/microblogposter_options_fbb.php:61
+#: options/microblogposter_options_bg.php:62
+#: options/microblogposter_options_ip.php:43
+#: options/microblogposter_options_dl.php:47
+#: options/microblogposter_options_fk.php:74
+#: options/microblogposter_options_vk.php:90
+#: options/microblogposter_options_dg.php:56
+#: options/microblogposter_options_lk.php:93
+#: options/microblogposter_options_fb.php:105
+#: options/microblogposter_options_pk.php:72
+#: options/microblogposter_options_xg.php:58
+#: options/microblogposter_options_wp.php:64
+#: options/microblogposter_options_gmb.php:88
+#: options/microblogposter_options_gmb.php:276
+#: options/microblogposter_options_tb.php:71
+#: options/microblogposter_options_new.php:14
+#: options/microblogposter_options_new.php:122
+#: options/microblogposter_options_new.php:186
+#: options/microblogposter_options_new.php:219
+#: options/microblogposter_options_new.php:285
+#: options/microblogposter_options_new.php:359
+#: options/microblogposter_options_new.php:424
+#: options/microblogposter_options_new.php:503
+#: options/microblogposter_options_new.php:581
+#: options/microblogposter_options_new.php:637
+#: options/microblogposter_options_new.php:686
+#: options/microblogposter_options_new.php:747
+#: options/microblogposter_options_new.php:813
+#: options/microblogposter_options_new.php:864
+#: options/microblogposter_options_new.php:940
+#: options/microblogposter_options_new.php:1034
+#: options/microblogposter_options_new.php:1113
+msgid "Message that's actually posted."
+msgstr "Mensaje que se publica realemente."
+
+#: options/microblogposter_options_tw.php:58
+#: options/microblogposter_options_gpb.php:57
+#: options/microblogposter_options_pt.php:72
+#: options/microblogposter_options_fbb.php:57
+#: options/microblogposter_options_bg.php:58
+#: options/microblogposter_options_ip.php:39
+#: options/microblogposter_options_dl.php:43
+#: options/microblogposter_options_fk.php:70
+#: options/microblogposter_options_vk.php:86
+#: options/microblogposter_options_dg.php:52
+#: options/microblogposter_options_lk.php:89
+#: options/microblogposter_options_fb.php:101
+#: options/microblogposter_options_pk.php:68
+#: options/microblogposter_options_xg.php:54
+#: options/microblogposter_options_wp.php:60
+#: options/microblogposter_options_gmb.php:84
+#: options/microblogposter_options_gmb.php:272
+#: options/microblogposter_options_tb.php:67
+#: options/microblogposter_options_new.php:10
+#: options/microblogposter_options_new.php:118
+#: options/microblogposter_options_new.php:182
+#: options/microblogposter_options_new.php:215
+#: options/microblogposter_options_new.php:281
+#: options/microblogposter_options_new.php:355
+#: options/microblogposter_options_new.php:420
+#: options/microblogposter_options_new.php:499
+#: options/microblogposter_options_new.php:577
+#: options/microblogposter_options_new.php:633
+#: options/microblogposter_options_new.php:682
+#: options/microblogposter_options_new.php:743
+#: options/microblogposter_options_new.php:809
+#: options/microblogposter_options_new.php:860
+#: options/microblogposter_options_new.php:936
+#: options/microblogposter_options_new.php:1030
+#: options/microblogposter_options_new.php:1109
+msgid "Message Format:"
+msgstr "Formato del mensaje:"
+
+#: microblogposter_options.php:2897
+msgid "Add New Account"
+msgstr "Añadir una nueva cuenta"
+
+#: microblogposter_options.php:2895
+msgid "Configure Your Social Networks Accounts :"
+msgstr "Configura tus cuentas de redes sociales :"
+
+#: microblogposter_options.php:2888
+msgid "Update Options"
+msgstr "Actualizar opciones"
+
+#: microblogposter_options.php:2873
+msgid "(Used when auto generated)"
+msgstr "(Usado cuando se autogenera)"
+
+#: microblogposter_options.php:2862
+msgid "Change only if you know what you're doing, otherwise default values are just fine."
+msgstr "Cámbialo solo si sabes lo que estás haciendo, de lo contrario los valores predeterminados están bien."
+
+#: options/microblogposter_options_tw.php:52
+#: options/microblogposter_options_gpb.php:38
+#: options/microblogposter_options_pt.php:51
+#: options/microblogposter_options_pt.php:58
+#: options/microblogposter_options_fbb.php:38
+#: options/microblogposter_options_bg.php:44
+#: options/microblogposter_options_ip.php:27
+#: options/microblogposter_options_dl.php:31
+#: options/microblogposter_options_fk.php:56
+#: options/microblogposter_options_vk.php:49
+#: options/microblogposter_options_dg.php:33
+#: options/microblogposter_options_lk.php:54
+#: options/microblogposter_options_fb.php:65
+#: options/microblogposter_options_pk.php:35
+#: options/microblogposter_options_xg.php:47
+#: options/microblogposter_options_wp.php:48
+#: options/microblogposter_options_gmb.php:132
+#: options/microblogposter_options_bff.php:50
+#: options/microblogposter_options_tb.php:53
+#: options/microblogposter_options_new.php:4
+#: options/microblogposter_options_new.php:85
+#: options/microblogposter_options_new.php:169
+#: options/microblogposter_options_new.php:203
+#: options/microblogposter_options_new.php:244
+#: options/microblogposter_options_new.php:336
+#: options/microblogposter_options_new.php:384
+#: options/microblogposter_options_new.php:485
+#: options/microblogposter_options_new.php:563
+#: options/microblogposter_options_new.php:621
+#: options/microblogposter_options_new.php:655
+#: options/microblogposter_options_new.php:737
+#: options/microblogposter_options_new.php:788
+#: options/microblogposter_options_new.php:795
+#: options/microblogposter_options_new.php:846
+#: options/microblogposter_options_new.php:924
+#: options/microblogposter_options_new.php:966
+#: options/microblogposter_options_new.php:982
+#: options/microblogposter_options_new.php:1061
+#: options/microblogposter_options_new.php:1140
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: options/microblogposter_options_tw.php:45
+#: options/microblogposter_options_gpb.php:31
+#: options/microblogposter_options_pt.php:44
+#: options/microblogposter_options_fbb.php:31
+#: options/microblogposter_options_bg.php:37
+#: options/microblogposter_options_ip.php:21
+#: options/microblogposter_options_dl.php:25
+#: options/microblogposter_options_fk.php:49
+#: options/microblogposter_options_vk.php:42
+#: options/microblogposter_options_dg.php:26
+#: options/microblogposter_options_lk.php:47
+#: options/microblogposter_options_fb.php:58
+#: options/microblogposter_options_pk.php:28
+#: options/microblogposter_options_xg.php:40
+#: options/microblogposter_options_wp.php:26
+#: options/microblogposter_options_gmb.php:48
+#: options/microblogposter_options_gmb.php:126
+#: options/microblogposter_options_gmb.php:241
+#: options/microblogposter_options_bff.php:43
+#: options/microblogposter_options_tb.php:46 microblogposter_options.php:2933
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> Plugin"
+msgstr "Plugin <span class=\"microblogposter-name\">MicroblogPoster</span>"
+
+#: microblogposter_options.php:2834
+msgid "Check categories for which you want to disable automatically <span class=\"microblogposter-name\">MicroblogPoster</span> from cross-posting."
+msgstr "Marca las categorías para que quieres desactivar la redistribución automática de <span class=\"microblogposter-name\">MicroblogPoster</span>."
+
+#: microblogposter_options.php:2829
+msgid "Categories to exclude posts from Cross Posting :"
+msgstr "Categorías que excluir de la redistribución automática :"
+
+#: microblogposter_options.php:2818 microblogposter_options.php:3079
+msgid "Currently, no custom types are active."
+msgstr "Actualmente no hay tipos personalizados activos."
+
+#: microblogposter_options.php:2797
+msgid "Check Custom Post Types for which you want to enable <span class=\"microblogposter-name\">MicroblogPoster</span>."
+msgstr "Marca los tipos de contenido personalizados para los que quieres activar <span class=\"microblogposter-name\">MicroblogPoster</span>."
+
+#: microblogposter_options.php:2792 microblogposter_options.php:3039
+msgid "Custom Post Types :"
+msgstr "Tipos de contenido personalizados :"
+
+#: microblogposter_options.php:2780
+msgid "Default per PAGE UPDATE behavior :"
+msgstr "Comportamiento predeterminado al ACTUALIZAR PÁGINA :"
+
+#: microblogposter_options.php:2771
+msgid "Default per NEW PAGE behavior :"
+msgstr "Comportamiento predeterminado al PUBLICAR UNA PÁGINA :"
+
+#: options/microblogposter_options_tw.php:152
+#: options/microblogposter_options_gpb.php:108
+#: options/microblogposter_options_pt.php:130
+#: options/microblogposter_options_fbb.php:108
+#: options/microblogposter_options_bg.php:124
+#: options/microblogposter_options_ip.php:82
+#: options/microblogposter_options_dl.php:93
+#: options/microblogposter_options_fk.php:137
+#: options/microblogposter_options_vk.php:167
+#: options/microblogposter_options_dg.php:102
+#: options/microblogposter_options_lk.php:173
+#: options/microblogposter_options_fb.php:175
+#: options/microblogposter_options_pk.php:140
+#: options/microblogposter_options_xg.php:123
+#: options/microblogposter_options_wp.php:110
+#: options/microblogposter_options_gmb.php:162
+#: options/microblogposter_options_gmb.php:324
+#: options/microblogposter_options_bff.php:87
+#: options/microblogposter_options_tb.php:155
+msgid "Delete"
+msgstr "Borrar"
